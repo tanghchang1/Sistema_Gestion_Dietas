@@ -1,0 +1,4 @@
+PatientId,Name,Age,Weight,Height,PreexistingCondition,DietPlan
+123,John Doe,30,70.5,175.0,Hypertension,Low Carb Plan
+456,Jane Smith,25,60.0,160.0,Diabetes,High Protein Plan
+789,Bob Johnson,40,80.0,180.0,Obesity,Mediterranean Diet
